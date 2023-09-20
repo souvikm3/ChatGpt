@@ -6,24 +6,14 @@
 This project features a WebUI utilizing the [G4F API](https://github.com/xtekky/gpt4free). <br>
 Experience the power of ChatGPT with a user-friendly interface, enhanced jailbreaks, and completely free.
 
-## Known bugs 🚧
-- Stream mode not working properly.
 
-## News 📢
-I have created a new version of FreeGPT WebUI using the [NagaAI API](https://naga.ac/). 
 <br>
 <br>
 This free API allows you to use various AI chat models, including <strong>GPT-4, GPT-4-32k, llama-2 and more.</strong> <br>
-Check out the project here: [FreeGPT WebUI - Naga Version](https://github.com/ramonvc/freegpt-webui/tree/naga-version).
 
-## Project Hosting and Demonstration 🌐🚀
-The project is hosted on multiple platforms to be tested and modified.
-|Platform|Status|API Key|Free|Repo|Demo|
-|--|--|--|--|--|--|
-|[replit](https://replit.com/)|![Active](https://img.shields.io/badge/Active-brightgreen)|◼️|☑️|[FreeGPT WebUI](https://replit.com/@ramonvc/freegpt-webui)|[Chat](https://freegpt-webui.ramonvc.repl.co/chat/)
-|[hugging face](https://huggingface.co)|![Active](https://img.shields.io/badge/Active-brightgreen)|◼️|☑️|[FreeGPT WebUI](https://huggingface.co/spaces/monra/freegpt-webui/tree/main)|[Chat](https://huggingface.co/spaces/monra/freegpt-webui)
-|[replit](https://replit.com/)|![Active](https://img.shields.io/badge/Active-brightgreen)|☑️|☑️|[FreeGPT WebUI - Naga Version](https://replit.com/@ramonvc/freegpt-webui-chimera)|[Chat](https://freegpt-webui-chimera.ramonvc.repl.co/chat/)
-|[hugging face](https://huggingface.co)|![Active](https://img.shields.io/badge/Active-brightgreen)|☑️|☑️|[FreeGPT WebUI - Naga Version](https://huggingface.co/spaces/monra/freegpt-webui-chimera/tree/main)|[Chat](https://huggingface.co/spaces/monra/freegpt-webui-chimera)
+
+
+
 
 ## Note ℹ️ 
 <p>
